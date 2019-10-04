@@ -30,5 +30,7 @@ let Calculator = {
 };
 
 function actionApplyer(startInt, fnArray) {
-  
+  for (let i = 0; i < fnArray.length; i++) {
+    
+  }
 }
