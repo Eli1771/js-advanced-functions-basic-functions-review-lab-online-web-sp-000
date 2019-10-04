@@ -13,20 +13,6 @@ function wrapAdjective() {
 }
 
 let Calculator = {
-  add: function() {
-    
-  }
-  
-  subtract: function() {
-    
-  }
-  
-  multiply: function() {
-    
-  }
-  
-  divide: function() {
-    
-  }
+
 };
 
