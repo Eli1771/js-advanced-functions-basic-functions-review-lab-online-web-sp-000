@@ -31,6 +31,7 @@ let Calculator = {
 
 function actionApplyer(startInt='0', fnArray) {
   for (let i = 0; i < fnArray.length; i++) {
-    fnArray[i](startInt);
+    startInt = fnArray[i](startInt);
   }
+  return startInt;
 }
