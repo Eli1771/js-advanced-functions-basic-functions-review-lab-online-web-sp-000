@@ -16,3 +16,6 @@ let Calculator = {
 
 };
 
+function actionApplyer(startInt, fnArray) {
+  
+}
