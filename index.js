@@ -9,7 +9,9 @@ function mondayWork(activity='go to the office') {
 }
 
 function wrapAdjective(style='*') {
-  
+  return function(adjective) {
+    
+  }
 }
 
 let Calculator = {
