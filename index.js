@@ -29,7 +29,7 @@ let Calculator = {
   }
 };
 
-function actionApplyer(startInt, fnArray) {
+function actionApplyer(startInt=0, fnArray) {
   for (let i = 0; i < fnArray.length; i++) {
     
   }
